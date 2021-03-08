@@ -1,0 +1,250 @@
+[
+
+	{
+		"name": "Scouting 4",
+  "prerequisites": ["Scouting III"],
+		"effect": "+1 Visibility Range",
+		"unitTypes": ["Scout"]
+	},
+	{
+		"name": "Scouting 5",
+  "prerequisites": ["Scouting 4"],
+		"effect": "+1 Visibility Range",
+		"unitTypes": ["Scout"]
+	},
+	{
+		"name": "Scouting 6",
+  "prerequisites": ["Scouting 5"],
+		"effect": "+1 Visibility Range",
+		"unitTypes": ["Scout"]
+	},
+	{
+		"name": "Scouting 7",
+  "prerequisites": ["Scouting 6"],
+		"effect": "+1 Visibility Range",
+		"unitTypes": ["Scout"]
+ },
+ {
+		"name": "Scouting 8",
+  "prerequisites": ["Scouting 7"],
+		"effect": "+1 Visibility Range",
+		"unitTypes": ["Scout"]
+	},
+	{
+		"name": "Scouting 9",
+  "prerequisites": ["Scouting 8"],
+		"effect": "+1 Visibility Range",
+		"unitTypes": ["Scout"]
+	},
+	{
+		"name": "Scouting 10",
+  "prerequisites": ["Scouting 9"],
+		"effect": "+1 Visibility Range",
+		"unitTypes": ["Scout"]
+	 },
+ {
+		"name": "Scouting 11",
+  "prerequisites": ["Scouting 10"],
+		"effect": "+1 Visibility Range",
+		"unitTypes": ["Scout"]
+	},
+	{
+		"name": "Scouting 12",
+  "prerequisites": ["Scouting 11"],
+		"effect": "+1 Visibility Range",
+		"unitTypes": ["Scout"]
+	},
+	{
+		"name": "Scouting 13",
+  "prerequisites": ["Scouting 12"],
+		"effect": "+1 Visibility Range",
+		"unitTypes": ["Scout"]
+	},
+	{
+		"name": "Scouting 14",
+  "prerequisites": ["Scouting 13"],
+		"effect": "+1 Visibility Range",
+		"unitTypes": ["Scout"]
+	},
+	{
+		"name": "Scouting 15",
+  "prerequisites": ["Scouting 14"],
+		"effect": "+1 Visibility Range",
+		"unitTypes": ["Scout"]
+	},
+	{
+		"name": "Scouting 16",
+  "prerequisites": ["Scouting 15"],
+		"effect": "+1 Visibility Range",
+		"unitTypes": ["Scout"]
+	},
+	{
+		"name": "Scouting 17",
+  "prerequisites": ["Scouting 16"],
+		"effect": "+1 Visibility Range",
+		"unitTypes": ["Scout"]
+ },
+ {
+		"name": "Scouting 18",
+  "prerequisites": ["Scouting 17"],
+		"effect": "+1 Visibility Range",
+		"unitTypes": ["Scout"]
+	},
+	{
+		"name": "Scouting 19",
+  "prerequisites": ["Scouting 18"],
+		"effect": "+1 Visibility Range",
+		"unitTypes": ["Scout"]
+	},
+	{
+		"name": "Scouting 20",
+  "prerequisites": ["Scouting 19"],
+		"effect": "+1 Visibility Range",
+		"unitTypes": ["Scout"]
+	 },
+ {
+		"name": "Scouting 21",
+  "prerequisites": ["Scouting 20"],
+		"effect": "+1 Visibility Range",
+		"unitTypes": ["Scout"]
+	},
+	{
+		"name": "Scouting 22",
+  "prerequisites": ["Scouting 21"],
+		"effect": "+1 Visibility Range",
+		"unitTypes": ["Scout"]
+	},
+	{
+		"name": "Scouting 23",
+  "prerequisites": ["Scouting 22"],
+		"effect": "+1 Visibility Range",
+		"unitTypes": ["Scout"]
+	},
+ {
+		"name": "Scouting 24",
+  "prerequisites": ["Scouting 23"],
+		"effect": "+1 Visibility Range",
+		"unitTypes": ["Scout"]
+	},
+	{
+		"name": "Scouting 25",
+  "prerequisites": ["Scouting 24"],
+		"effect": "+1 Visibility Range",
+		"unitTypes": ["Scout"]
+	},
+	{
+		"name": "Extended Range 2",
+  "prerequisites": ["Extended Range"],
+		"effect": "+1 Range",
+		"unitTypes": ["Ranged"]
+	},
+	{
+		"name": "Extended Range 3",
+  "prerequisites": ["Extended Range 2"],
+		"effect": "+1 Range",
+		"unitTypes": ["Ranged"]
+	},
+	{
+		"name": "Extended Range 4",
+  "prerequisites": ["Extended Range 3"],
+		"effect": "+1 Range",
+		"unitTypes": ["Ranged"]
+	},
+	{
+		"name": "Extended Range 5",
+  "prerequisites": ["Extended Range 4"],
+		"effect": "+1 Range",
+		"unitTypes": ["Ranged"]
+ },
+ {
+		"name": "Extended Range 6",
+  "prerequisites": ["Extended Range 5"],
+		"effect": "+1 Range",
+		"unitTypes": ["Ranged"]
+	},
+	{
+		"name": "Extended Range 7",
+  "prerequisites": ["Extended Range 6"],
+		"effect": "+1 Range",
+		"unitTypes": ["Ranged"]
+	},
+	{
+		"name": "Extended Range 8",
+  "prerequisites": ["Extended Range 7"],
+		"effect": "+1 Range",
+		"unitTypes": ["Ranged"]
+	 },
+ {
+		"name": "Extended Range 9",
+  "prerequisites": ["Extended Range 8"],
+		"effect": "+1 Range",
+		"unitTypes": ["Ranged"]
+	},
+	{
+		"name": "Extended Range 10",
+  "prerequisites": ["Extended Range 9"],
+		"effect": "+1 Range",
+		"unitTypes": ["Ranged"]
+	},
+	{
+		"name": "Extended Range 11",
+  "prerequisites": ["Extended Range 10"],
+		"effect": "+1 Range",
+		"unitTypes": ["Ranged"]
+	},
+	{
+		"name": "Extended Range 12",
+  "prerequisites": ["Extended Range 11"],
+		"effect": "+1 Range",
+		"unitTypes": ["Ranged"]
+	},
+	{
+		"name": "Extended Range 13",
+  "prerequisites": ["Extended Range 12"],
+		"effect": "+1 Range",
+		"unitTypes": ["Ranged"]
+	},
+	{
+		"name": "Extended Range 14",
+  "prerequisites": ["Extended Range 13"],
+		"effect": "+1 Range",
+		"unitTypes": ["Ranged"]
+	},
+	{
+		"name": "Extended Range 15",
+  "prerequisites": ["Extended Range 14"],
+		"effect": "+1 Range",
+		"unitTypes": ["Ranged"]
+ },
+ {
+		"name": "Extended Range 16",
+  "prerequisites": ["Extended Range 15"],
+		"effect": "+1 Range",
+		"unitTypes": ["Ranged"]
+	},
+	{
+		"name": "Extended Range 17",
+  "prerequisites": ["Extended Range 16"],
+		"effect": "+1 Range",
+		"unitTypes": ["Ranged"]
+	},
+	{
+		"name": "Extended Range 18",
+  "prerequisites": ["Extended Range 17"],
+		"effect": "+1 Range",
+		"unitTypes": ["Ranged"]
+	 },
+ {
+		"name": "Extended Range 19",
+  "prerequisites": ["Extended Range 18"],
+		"effect": "+1 Range",
+		"unitTypes": ["Ranged"]
+	},
+	{
+		"name": "Extended Range 20",
+  "prerequisites": ["Extended Range 19"],
+		"effect": "+1 Range",
+		"unitTypes": ["Ranged"]
+	} 
+
+]

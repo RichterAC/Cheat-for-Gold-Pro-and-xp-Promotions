@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Portal of Power",
+    "uniqueTo": "Kingdom",
+    "gold": 100000,
+    "cost": 1,
+    "culture": 2,
+   	"food": 100,
+   	"production": 10000,
+    "xpForNewUnits": 9999,
+    "specialistSlots": {"Merchant": 1},
+    "hurryCostModifier": 25,
+    "percentStatBonus": {"gold": 25},
+    "uniques": ["[+3 Gold] from [Wine] tiles in this city"],
+  }
+]
+
+
+
+		

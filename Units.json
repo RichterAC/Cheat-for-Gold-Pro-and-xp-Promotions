@@ -1,0 +1,33 @@
+[
+{
+		"name": "Pathfinder",
+		"unitType": "Scout",
+		"movement": 100,
+		"strength": 8,
+		"cost": 25,
+		"uniqueTo": "Kingdom",
+  "uniques":["Ignores terrain cost","+1 Visibility Range","+2 Visibility Range","Can build improvements on tiles"],
+		"attackSound": "nonmetalhit"
+	},
+{
+		"name": "Siedler",
+		"unitType": "Civilian",
+		"movement": 100,
+		"cost": 106,
+  "uniqueTo": "Kingdom",
+		"uniques": ["Founds a new city", "Excess Food converted to Production when under construction",
+			"Requires at least [2] population"],
+		"hurryCostModifier": 20
+	},
+{
+		"name": "Archer",
+		"unitType": "Ranged",
+		"movement": 100,
+		"strength": 5,
+		"rangedStrength": 7,
+		"cost": 40,
+  "uniqueTo": "Kingdom",
+		"uniques":["Ignores terrain cost","+1 Visibility Range","+2 Visibility Range","Can build improvements on tiles"],
+		"attackSound": "arrow"
+	}
+]
