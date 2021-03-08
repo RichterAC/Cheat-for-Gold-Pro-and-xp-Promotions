@@ -1,2 +1,5 @@
 Largin: have used his mod as a template
 https://github.com/Largin/uncivCheatNation
+
+paontv: Used as a reference for buildings 
+https://github.com/paontv/Difficulty_Sandbox
